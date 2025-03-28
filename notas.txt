@@ -1,0 +1,16 @@
+
+assets: este archivo contiene imágenes, fuentes
+app.json son configuraciones básicas de la app
+index.js: archivo principal
+package.json: información general del proyecto y paquetes instalados
+
+npm = node package manager
+npm -v
+npx = node package x(ejecutar)
+
+home 	= home /home
+index 	= /
+menu 	= menu /menu
+settings index.js = /settings/
+settings menu.js = /settings/menu
+
